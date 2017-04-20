@@ -1,6 +1,6 @@
 # CS422_Project2
 
-Link - https://patricktam.github.io/CS422_Project2/
+Link - https://patricktam.github.io/CS422_Project2v2/
 
 cs422p2 - main file where setup() and draw() are in.
 
